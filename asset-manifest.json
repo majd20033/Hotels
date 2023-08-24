@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Hotels/static/css/main.53cc9676.css",
+    "main.js": "/Hotels/static/js/main.61c9bac0.js",
+    "static/media/logo.jpg": "/Hotels/static/media/logo.b11c39dfefdc8edbee30.jpg",
+    "index.html": "/Hotels/index.html",
+    "main.53cc9676.css.map": "/Hotels/static/css/main.53cc9676.css.map",
+    "main.61c9bac0.js.map": "/Hotels/static/js/main.61c9bac0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53cc9676.css",
+    "static/js/main.61c9bac0.js"
+  ]
+}
