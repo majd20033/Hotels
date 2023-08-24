@@ -1,0 +1,26 @@
+.box
+{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center ;
+    position: absolute;
+    right: 23%;
+    top: 550px;
+}
+.box span
+{
+    background-color: rgb(193, 193, 243);
+    width: 370px;
+    height: 110px;
+    padding: 20px;
+    text-align: left;
+    font-weight: 800;
+}
+.box span h1
+{
+    color:rgb(0, 0, 95);
+    font-size: 25px;
+}
+

@@ -1,0 +1,50 @@
+
+.template
+{
+    width: 870px;
+    height: 125px;
+    background-color: rgba(173, 173, 173, 0.288);
+    position: absolute;
+    top: 60px;
+    right: 20%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.template input
+{
+    transform: translate(0px,-10px);
+    width: 185px;
+    margin: 0px 4px;
+    height: 30px;
+    background: none;
+    border: none;
+    border-bottom: 1.5px solid black;
+
+}
+.template input::placeholder
+{
+    font-size: 15px;
+    padding: 10px 0px;
+    color: black;
+}
+.template ul 
+{
+    width: 800px;
+    display: flex;
+    /* justify-content: space-around; */
+    position: absolute;
+}
+.template li{
+    list-style: none;
+    transform: translate(21px,20px);
+    width: 190px;
+    margin-right: 5px;
+}
+.template svg
+{
+    position: absolute;
+    right: 0;
+    bottom: 27px;
+}
